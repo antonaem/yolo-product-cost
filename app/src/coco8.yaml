@@ -1,0 +1,8 @@
+val: ./new_dataset/images/val/
+train: ./new_dataset/images/train/
+
+names:
+  0: description
+  1: price_whole
+  2: price_fraction
+  3: social_price_label
